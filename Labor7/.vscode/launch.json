@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/florinsirbu/Desktop/HS /Semester4/OOS1/Labor/Labor7",
+      "program": "/Users/florinsirbu/Desktop/HS /Semester4/OOS1/Labor/Labor7/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
