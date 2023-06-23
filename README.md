@@ -1,3 +1,3 @@
 # Object-Orientierte-Systeme-HS
 
-small projects i have done in the university.
+Some small projects in c++ that i did as part of my university coursework.
